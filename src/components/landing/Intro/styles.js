@@ -44,6 +44,7 @@ export const Details = styled.div`
 
   h4 {
     margin-bottom: 2.5rem;
+    max-width: 485px;
     font-size: 32pt;
     font-weight: normal;
     color: ${({ theme }) => (theme === 'light' ? '#707070' : '#e6e6e6')};
