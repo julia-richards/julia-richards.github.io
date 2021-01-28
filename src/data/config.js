@@ -1,6 +1,6 @@
 module.exports = {
   defaultTitle: 'Julia Richards',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: 'https://portfolio.smakosh.com/favicon/favicon.png',
   author: 'Julia Richards',
   url: 'https://portfolio.smakosh.com',
   legalName: 'Julia Richards',
